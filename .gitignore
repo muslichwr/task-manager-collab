@@ -3,6 +3,8 @@
 .env
 .env.local
 .env.*
+secrets.env
+
 # Dependencies
 node_modules/
 vendor/
